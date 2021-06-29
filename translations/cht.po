@@ -1,0 +1,924 @@
+# ui_helpers.cpp
+msgid "off"
+msgstr "關閉"
+
+# ui_helpers.cpp
+msgid "on"
+msgstr "開啟"
+
+# keyboard_view.cpp
+msgid "ok"
+msgstr "好"
+
+# game.cpp
+msgid "Quick pause"
+msgstr "快速暫停"
+
+# game.cpp
+msgid "Quick pause %s"
+msgstr "快速暫停 %s"
+
+# pause_ui.cpp
+msgid "Continue"
+msgstr "繼續"
+
+# pause_ui.cpp
+msgid "Exit"
+msgstr "離開"
+
+# pause_ui.cpp
+msgid "Pause"
+msgstr "暫停"
+
+# pause_ui.cpp
+msgid "Restart"
+msgstr "重新開始"
+
+# game_over_ui.cpp
+msgid "Game Over"
+msgstr "遊戲結束"
+
+# game_over_ui.cpp
+msgid "Play again"
+msgstr "再玩一次"
+
+# shared_strings.cpp
+msgid "Casual"
+msgstr ""
+
+# shared_strings.cpp
+msgid "Community levels"
+msgstr "社區關卡"
+
+# shared_strings.cpp
+msgid "Failed to contact server"
+msgstr "連接伺服器失敗"
+
+# shared_strings.cpp
+msgid "Failed to parse response"
+msgstr "解析響應失敗"
+
+# shared_strings.cpp
+msgid "Failed to sign-in!"
+msgstr "登入失敗！"
+
+# shared_strings.cpp
+msgid "Official levels"
+msgstr "官方關卡"
+
+# shared_strings.cpp
+msgid "play count: %s"
+msgstr "遊玩計數: %s"
+
+# shared_strings.cpp
+msgid "time played: %s"
+msgstr "遊玩時間: %s"
+
+# screen_download_level.cpp
+msgid "Downloading level..."
+msgstr "下載關卡..."
+
+# screen_online_authenticate.cpp
+msgid "Authenticating..."
+msgstr "認證中..."
+
+# screen_online_authenticate.cpp
+msgid "Error :("
+msgstr "錯誤 :("
+
+# screen_online_authenticate.cpp
+msgid "Failed to authenticate"
+msgstr "認證失敗"
+
+# screen_online_authenticate.cpp
+msgid "Need the latest version of the game."
+msgstr "需要最新版本的遊戲"
+
+# screen_specify_server_ip.cpp
+msgid "Connect"
+msgstr "連接"
+
+# screen_specify_server_ip.cpp
+msgid "Connect to another room over the internet #ff0000ff(experimental)"
+msgstr "通過互聯網連接到另一個房間 #ff0000ff(實驗性)"
+
+# screen_specify_server_ip.cpp
+msgid "Connect to server"
+msgstr "連接至伺服器"
+
+# screen_specify_server_ip.cpp
+msgid "IP:"
+msgstr "IP地址:"
+
+# screen_specify_server_ip.cpp
+msgid "Port:"
+msgstr "端口"
+
+# screen_online_enter_password.cpp
+msgid "Enter password"
+msgstr "鍵入密碼"
+
+# screen_online_enter_password.cpp
+msgid "Join"
+msgstr "加入"
+
+# screen_online_enter_password.cpp
+msgid "Password:"
+msgstr "密碼："
+
+# screen_configure_touch_joystick.cpp
+msgid "Configure joysticks"
+msgstr "操縱桿設定"
+
+# screen_configure_touch_joystick.cpp
+msgid "Reset"
+msgstr "重設"
+
+# screen_configure_touch_joystick.cpp
+msgid "Swap"
+msgstr "交換"
+
+# screen_select_multiplayer_type.cpp
+msgid "LAN multiplayer"
+msgstr "區域網絡多人遊戲"
+
+# screen_select_multiplayer_type.cpp
+msgid "Online multiplayer"
+msgstr "線上多人遊戲"
+
+# screen_select_multiplayer_type.cpp
+msgid "Play with people around the world!"
+msgstr "與世界各地的人一起玩！"
+
+# screen_select_multiplayer_type.cpp
+msgid "Play with people on the same network!"
+msgstr "與相同網路的人一起玩！"
+
+# screen_select_multiplayer_type.cpp
+msgid "Select multiplayer type"
+msgstr "選擇多人遊戲型別"
+
+# screen_lan_create_or_join.cpp
+msgid "(Incompatible version)"
+msgstr "(版本不相容)"
+
+# screen_lan_create_or_join.cpp
+msgid "Close room"
+msgstr "關閉房間"
+
+# screen_lan_create_or_join.cpp
+msgid "Connecting to a phone's hotspot should work!"
+msgstr "嘗試連接至移動熱點！"
+
+# screen_lan_create_or_join.cpp
+msgid "Create room"
+msgstr "創建房間"
+
+# screen_lan_create_or_join.cpp
+msgid "Each player need to upload the replay separately to both appear in the online leader board."
+msgstr "每位玩家需要分別上載遊戲重播，以顯示在綫上排行榜"
+
+# screen_lan_create_or_join.cpp
+msgid "Help"
+msgstr "援助"
+
+# screen_lan_create_or_join.cpp
+msgid "Local multiplayer"
+msgstr "區域多玩家"
+
+# screen_lan_create_or_join.cpp
+msgid "Local multiplayer supports 2 players connected to the same wifi network."
+msgstr "區域多玩家支援連接至同一Wi-Fi網路的兩位玩家"
+
+# screen_lan_create_or_join.cpp
+msgid "Multiplayer help"
+msgstr "多玩家支援"
+
+# screen_lan_create_or_join.cpp
+msgid "One player must create a room, which the other player joins."
+msgstr "一位玩家必須創建房間，等待其他玩家連入。"
+
+# screen_lan_create_or_join.cpp
+msgid "Searching for rooms..."
+msgstr "搜尋房間中..."
+
+# screen_lan_create_or_join.cpp
+msgid "The wifi network does not have to be connected to the internet."
+msgstr "Wi-Fi網路不必連接至網際網路。"
+
+# screen_configure_ship.cpp
+msgid "Bullets"
+msgstr "子彈"
+
+# screen_configure_ship.cpp
+msgid "Configure Ship"
+msgstr "配置戰艦"
+
+# screen_configure_ship.cpp
+msgid "Model"
+msgstr "型號"
+
+# screen_configure_ship.cpp
+msgid "Trail"
+msgstr "軌跡"
+
+# screen_upload_scores.cpp
+msgid "Failed to upload replays."
+msgstr "無法上載遊戲重播。"
+
+# screen_upload_scores.cpp
+msgid "Nothing to upload!"
+msgstr "沒有需要上載的！"
+
+# screen_upload_scores.cpp
+msgid "Upload scores"
+msgstr "上載分數"
+
+# screen_upload_scores.cpp
+msgid "Upload successful"
+msgstr "上載成功"
+
+# screen_upload_scores.cpp
+msgid "Uploading replay for %s."
+msgstr "正在上載 %s 的遊戲重播。"
+
+# screen_career.cpp
+msgid "Statistics"
+msgstr "統計數據"
+
+# screen_select_level_of_author.cpp
+msgid "Levels by %s"
+msgstr "由 %s 創造的關卡"
+
+# screen_configure_keyboard.cpp
+msgid "Configure keyboard"
+msgstr "配置鍵盤"
+
+# screen_configure_keyboard.cpp
+msgid "Mouse aim %s"
+msgstr "滑鼠瞄準 %s"
+
+# screen_configure_keyboard.cpp
+msgid "Move"
+msgstr "移動"
+
+# screen_configure_keyboard.cpp
+msgid "Shoot"
+msgstr "射擊"
+
+# screen_online_list_rooms.cpp
+msgid "Refresh"
+msgstr "刷新"
+
+# screen_settings_language.cpp
+msgid "Contributors"
+msgstr "貢獻者們"
+
+# screen_settings_language.cpp
+msgid "Default language"
+msgstr "預設語言"
+
+# screen_settings_language.cpp
+msgid "Help out"
+msgstr "支援"
+
+# screen_settings_language.cpp
+msgid "Language Settings"
+msgstr "語言設定"
+
+# screen_settings_language.cpp
+msgid "The translations are community provided!"
+msgstr "翻譯由社區提供！"
+
+# screen_view_high_scores.cpp
+msgid "1p"
+msgstr "冠軍"
+
+# screen_view_high_scores.cpp
+msgid "2p"
+msgstr "亞軍"
+
+# screen_view_high_scores.cpp
+msgid "3p"
+msgstr "季軍"
+
+# screen_view_high_scores.cpp
+msgid "4p"
+msgstr "殿軍"
+
+# screen_view_high_scores.cpp
+msgid "Africa"
+msgstr "非洲"
+
+# screen_view_high_scores.cpp
+msgid "Asia"
+msgstr "亞洲"
+
+# screen_view_high_scores.cpp
+msgid "Europe"
+msgstr "歐洲"
+
+# screen_view_high_scores.cpp
+msgid "North America"
+msgstr "北美洲"
+
+# screen_view_high_scores.cpp
+msgid "Oceania"
+msgstr "大洋洲"
+
+# screen_view_high_scores.cpp
+msgid "South America"
+msgstr "南美洲"
+
+# screen_view_high_scores.cpp
+msgid "continent"
+msgstr "大洲"
+
+# screen_view_high_scores.cpp
+msgid "personal"
+msgstr "個人"
+
+# screen_view_high_scores.cpp
+msgid "region"
+msgstr "區域"
+
+# screen_view_high_scores.cpp
+msgid "world"
+msgstr "世界"
+
+# screen_benchmark.cpp
+msgid "Skip"
+msgstr "忽略"
+
+# screen_main_menu.cpp
+msgid "Multiplayer"
+msgstr "多人遊戲"
+
+# screen_main_menu.cpp
+msgid "Play"
+msgstr "遊玩"
+
+# screen_main_menu.cpp
+msgid "Single Player"
+msgstr "單人遊戲"
+
+# screen_online_create_or_join_room.cpp
+msgid "Creating room"
+msgstr "創建房間"
+
+# screen_online_create_or_join_room.cpp
+msgid "Failed to join room"
+msgstr "無法加入房間"
+
+# screen_online_create_or_join_room.cpp
+msgid "Incorrect password"
+msgstr "密碼錯誤"
+
+# screen_online_create_or_join_room.cpp
+msgid "Joining room"
+msgstr "加入房間"
+
+# screen_online_create_or_join_room.cpp
+msgid "Room is full"
+msgstr "房間已滿"
+
+# screen_online_create_or_join_room.cpp
+msgid "The room does not exist anymore"
+msgstr "房間不復存在"
+
+# screen_online_create_or_join_room.cpp
+msgid "The room expired"
+msgstr "房間已過期"
+
+# screen_online_create_or_join_room.cpp
+msgid "Unknown error"
+msgstr "未知錯誤"
+
+# screen_online_create_or_join_room.cpp
+msgid "You are already in the room!"
+msgstr "你已在房間内！"
+
+# screen_tutorial.cpp
+msgid "Tutorial"
+msgstr "導引"
+
+# screen_online_configure_room.cpp
+msgid "2 extra characters (optional):"
+msgstr "兩個額外的字元(可選)："
+
+# screen_online_configure_room.cpp
+msgid "Any level"
+msgstr "任何關卡"
+
+# screen_online_configure_room.cpp
+msgid "Password (optional):"
+msgstr "密碼(選填)："
+
+# screen_online_configure_room.cpp
+msgid "Room configuration"
+msgstr "房間設定"
+
+# screen_online_configure_room.cpp
+msgid "Room name: %s"
+msgstr "房間名稱：%s"
+
+# screen_informations_music.cpp
+msgid "Music"
+msgstr "音樂"
+
+# screen_server_connection_closed.cpp
+msgid "Connection error"
+msgstr "連接錯誤"
+
+# screen_server_connection_closed.cpp
+msgid "Lost connection to server"
+msgstr "連接丟失"
+
+# screen_settings_audio.cpp
+msgid "Audio Settings"
+msgstr "聲頻設定"
+
+# screen_settings_audio.cpp
+msgid "Sound effects"
+msgstr "音響效果"
+
+# screen_settings_audio.cpp
+msgid "Visualization"
+msgstr "視覺化"
+
+# screen_watch_replay.cpp
+msgid "Failed to download replay."
+msgstr "無法下載游戲重播。"
+
+# screen_watch_replay.cpp
+msgid "Failed to read replay."
+msgstr "無法讀入游戲重播。"
+
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffCommunity#ffffffff levels are built by YOU, the community."
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffExperimental#ffffffff levels are levels that haven't been released yet."
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "#ffff00ffOfficial#ffffffff levels are built by me (JF), and allow you to earn medals."
+msgstr ""
+
+# screen_select_single_player_level.cpp
+msgid "About the levels"
+msgstr "關於關卡"
+
+# screen_select_single_player_level.cpp
+msgid "Community"
+msgstr "社群"
+
+# screen_select_single_player_level.cpp
+msgid "Experimental"
+msgstr "實驗性"
+
+# screen_select_single_player_level.cpp
+msgid "Experimental levels"
+msgstr "實驗性關卡"
+
+# screen_select_single_player_level.cpp
+msgid "More info on github.com/jyaif/ppl-utils"
+msgstr "檢視github.com/jyaif/ppl-utils上的更多資訊"
+
+# screen_select_single_player_level.cpp
+msgid "Official"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "Error reading manifest"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "Experimental level"
+msgstr "實驗性關卡"
+
+# screen_view_level.cpp
+msgid "Failed to download manifest"
+msgstr ""
+
+# screen_view_level.cpp
+msgid "Loading..."
+msgstr "載入中..."
+
+# screen_view_level.cpp
+msgid "Local best: %s"
+msgstr "本機最佳：%s"
+
+# screen_view_level.cpp
+msgid "World record: %s"
+msgstr "世界紀錄：%s"
+
+# screen_view_level.cpp
+msgid "average score: %s"
+msgstr "平均分數：%s"
+
+# screen_view_level.cpp
+msgid "by %s"
+msgstr "由 %s 創作"
+
+# screen_settings_controls.cpp
+msgid "Controls Settings"
+msgstr "操縱設定"
+
+# screen_settings_controls.cpp
+msgid "Keyboard"
+msgstr "鍵盤"
+
+# screen_settings_controls.cpp
+msgid "Touchscreen"
+msgstr "觸控式螢幕"
+
+# screen_informations.cpp
+msgid "Development videos"
+msgstr ""
+
+# screen_informations.cpp
+msgid "Discord server"
+msgstr "Discord伺服器"
+
+# screen_settings.cpp
+msgid "Audio"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Controls"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Developer mode"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Language"
+msgstr "語言"
+
+# screen_settings.cpp
+msgid "Launch intro"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Settings"
+msgstr "設定"
+
+# screen_settings.cpp
+msgid "Start tutorial"
+msgstr ""
+
+# screen_settings.cpp
+msgid "Vibration %s"
+msgstr ""
+
+# screen_multiplayer_lobby.cpp
+msgid "Cancel"
+msgstr "取消"
+
+# screen_multiplayer_lobby.cpp
+msgid "Local lobby"
+msgstr ""
+
+# screen_multiplayer_lobby.cpp
+msgid "Online lobby"
+msgstr ""
+
+# screen_multiplayer_lobby.cpp
+msgid "Ready"
+msgstr ""
+
+# screen_multiplayer_lobby.cpp
+msgid "Waiting for other players..."
+msgstr "等待其他玩家..."
+
+# screen_signin.cpp
+msgid "Check your inbox!"
+msgstr "檢視你的信箱！"
+
+# screen_signin.cpp
+msgid "Email"
+msgstr "電郵"
+
+# screen_signin.cpp
+msgid "Email not verified"
+msgstr "電郵未驗證"
+
+# screen_signin.cpp
+msgid "Failed to request password reset"
+msgstr "請求重置密碼失敗"
+
+# screen_signin.cpp
+msgid "Failed to resend email"
+msgstr "重新發送郵件失敗"
+
+# screen_signin.cpp
+msgid "Password"
+msgstr "密碼"
+
+# screen_signin.cpp
+msgid "Password reset email sent"
+msgstr "已發送密碼重置郵件"
+
+# screen_signin.cpp
+msgid "Re-send verification email"
+msgstr "重新發送驗證郵件"
+
+# screen_signin.cpp
+msgid "Request password reset"
+msgstr "請求重置密碼"
+
+# screen_signin.cpp
+msgid "Requesting password reset"
+msgstr "正在請求重置密碼"
+
+# screen_signin.cpp
+msgid "Requesting verification email"
+msgstr "正在請求驗證郵件"
+
+# screen_signin.cpp
+msgid "Reset password"
+msgstr "重置密碼"
+
+# screen_signin.cpp
+msgid "Sign in"
+msgstr "登入"
+
+# screen_signin.cpp
+msgid "Signing in"
+msgstr "登入中"
+
+# screen_signin.cpp
+msgid "Successfully signed in!"
+msgstr "已成功登入！"
+
+# screen_signin.cpp
+msgid "Verification email sent"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "All your medals are here."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Failed to download backup data"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Failed to synchronize."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronization completed."
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "Synchronizing"
+msgstr ""
+
+# screen_synchronize.cpp
+msgid "You've been signed out."
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Account"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Create an account to set your name and sync your data"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Not signed in"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Privacy Policy"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Register"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "You need to be signed-in to play online"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "You need to be signed-in to upload scores"
+msgstr ""
+
+# screen_signed_out.cpp
+msgid "Your account"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm email"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm email:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm password"
+msgstr ""
+
+# screen_register.cpp
+msgid "Confirm password:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Email is invalid!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Email:"
+msgstr ""
+
+# screen_register.cpp
+msgid "Emails do not match!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Failed to register"
+msgstr ""
+
+# screen_register.cpp
+msgid "Passwords do not match!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Please check your emails!"
+msgstr ""
+
+# screen_register.cpp
+msgid "Register account"
+msgstr ""
+
+# screen_register.cpp
+msgid "Registering"
+msgstr ""
+
+# screen_register.cpp
+msgid "Registration successful."
+msgstr ""
+
+# screen_register.cpp
+msgid "Too long. Maximum %s characters."
+msgstr ""
+
+# screen_register.cpp
+msgid "Too short. Minimum %s characters."
+msgstr ""
+
+# screen_register.cpp
+msgid "Username"
+msgstr ""
+
+# screen_register.cpp
+msgid "Username (you can put colors in!):"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Online profile"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Sign out"
+msgstr ""
+
+# screen_signed_in.cpp
+msgid "Synchronize"
+msgstr ""
+
+# game_hud.cpp
+msgid "Shield: %s"
+msgstr ""
+
+# community_level_selector.cpp
+msgid "IN REVIEW"
+msgstr ""
+
+# player_data_manager.cpp
+msgid "New personal best! %s ⇨ %s"
+msgstr ""
+
+# game_network_message_parser.cpp
+msgid "%s left the game"
+msgstr ""
+
+# game_state.cpp
+msgid "Accuracy: %s"
+msgstr ""
+
+# game_state.cpp
+msgid "N/A"
+msgstr ""
+
+# game_levels.cpp
+msgid "Choose your own difficulty"
+msgstr ""
+
+# game_levels.cpp
+msgid "Dodge everything and you'll be OK"
+msgstr ""
+
+# game_levels.cpp
+msgid "Euclidean space is overrated"
+msgstr ""
+
+# game_levels.cpp
+msgid "Green good. Red bad."
+msgstr ""
+
+# game_levels.cpp
+msgid "Just 32 seconds of skills"
+msgstr ""
+
+# game_levels.cpp
+msgid "My favorite mode"
+msgstr ""
+
+# game_levels.cpp
+msgid "Never trust a six-sided polygon"
+msgstr ""
+
+# game_levels.cpp
+msgid "Previously known as Assault"
+msgstr ""
+
+# game_levels.cpp
+msgid "RIP GW3:Dimensions"
+msgstr ""
+
+# game_levels.cpp
+msgid "Survive 32 seconds with this simple trick"
+msgstr ""
+
+# game_levels.cpp
+msgid "Unrelated to \"Super Hexagon\""
+msgstr ""
+
+# game_levels.cpp
+msgid "\"This level is a joke right?\" - a tester"
+msgstr ""
+
+# game_levels.cpp
+msgid "aka Dodge This"
+msgstr ""
+
+# medals.cpp
+msgid "New bronze medal"
+msgstr ""
+
+# medals.cpp
+msgid "New gold medal"
+msgstr ""
+
+# medals.cpp
+msgid "New silver medal"
+msgstr ""
+
+# renderer_types.cpp
+msgid "Compression friendly"
+msgstr ""
+
+# renderer_types.cpp
+msgid "High"
+msgstr "高"
+
+# renderer_types.cpp
+msgid "High (Dark)"
+msgstr "高(暗黑)"
+
+# renderer_types.cpp
+msgid "Minimal"
+msgstr "最小"
+
+# renderer_types.cpp
+msgid "Minimal (Dark)"
+msgstr "最小(暗黑)"
+
+# renderer_types.cpp
+msgid "Ultra low 16x"
+msgstr "極低 16x"
+
+# renderer_types.cpp
+msgid "Ultra low 2x"
+msgstr "極低 2x"
+
+# renderer_types.cpp
+msgid "Ultra low 32x"
+msgstr "極低 32x"
+
+# renderer_types.cpp
+msgid "Ultra low 4x"
+msgstr "極低 4x"
+
+# renderer_types.cpp
+msgid "Ultra low 8x"
+msgstr "極低 8x"
+
